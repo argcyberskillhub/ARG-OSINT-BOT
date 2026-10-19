@@ -32,9 +32,10 @@ pip install -r requirements.txt
 ### 3. Configuration 
 Set the necessary API keys in your `.env` file:
 ```python
-API_KEY = "your_api_key_here"
+
 BOT_TOKEN = "your_bot_token_here"
 BOT_NAME= "Here Your bot_name"
+USER-ID = "your_user-id"
 BOT_USERNAME="Here Your bot user name"
 ```
 
